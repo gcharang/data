@@ -4,7 +4,7 @@ Edit the file: https://github.com/gcharang/data/info/ecosystem.json
 
 Each time the explorer is opened, a random number is generated in the users browser. It is used to pick a Project, then an ad in it based on their respective priorities and frequencies specified.
 
-All the fields are self explanatory. For projects, `priority` is the number of times with respect to other projects the given project is selected. For ads, `frequency` is similar.
+All the fields are self explanatory. For projects, `priority` is the number of times with respect to other projects the given project is selected. For ads, `frequency` is similar. The values for `frequency` and `priority` must be integers.
 
 Example:
 
