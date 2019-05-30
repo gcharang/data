@@ -1,0 +1,116 @@
+[
+  {
+    "projectName": "KMD",
+    "priority": "5",
+    "ads": [
+      {
+        "data": {
+          "string1": "Version '0.3.6b' is available for Agama.",
+          "anchorText": "Click here",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "to download!"
+        },
+        "frequency": "always"
+      },
+      {
+        "data": {
+          "string1": "Checkout our DEX",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "30"
+      },
+      {
+        "data": {
+          "string1": "Learn about the upcoming Network Upgrade",
+          "anchorText": "at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "40"
+      },
+      {
+        "data": {
+          "string1": "Subscribe to our News Letter",
+          "anchorText": "at",
+          "link": " https://komodoplatform.com/newsletter",
+          "string2": "Thank you!"
+        },
+        "frequency": "10"
+      },
+      {
+        "data": {
+          "string1": "Checkout FBF",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "10"
+      },
+      {
+        "data": {
+          "string1": "Checkout Tech Tuesday Update",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "10"
+      },
+      {
+        "data": {
+          "string1": "Placeholder",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "never"
+      }
+    ]
+  },
+  {
+    "projectName": "LABS",
+    "priority": "1",
+    "ads": [
+      {
+        "data": {
+          "string1": "KMDLabs was launched to accelerate development, testing and adoption of Komodo platform. For more info,",
+          "anchorText": "Click here",
+          "link": "https://kmdlabs.com/",
+          "string2": ""
+        },
+        "frequency": "always"
+      }
+    ]
+  },
+  {
+    "projectName": "ARR",
+    "priority": "never",
+    "ads": [
+      {
+        "data": {
+          "string1": "Arr was launched using Komodo's Technology. Check it",
+          "anchorText": "here",
+          "link": "",
+          "string2": "Thank you!"
+        },
+        "frequency": "always"
+      }
+    ]
+  },
+  {
+    "projectName": "VRSC",
+    "priority": "never",
+    "ads": [
+      {
+        "data": {
+          "string1": "VRSC has launched PBaaS. Check it",
+          "anchorText": "here",
+          "link": "",
+          "string2": "Thank you!"
+        },
+        "frequency": "always"
+      }
+    ]
+  }
+]
