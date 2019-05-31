@@ -1,6 +1,6 @@
 # README
 
-Edit the file: https://github.com/gcharang/data/info/ecosystem.json
+Edit the file: https://github.com/gcharang/data/info/ecosystem.json and submit a PR
 
 Each time the explorer is opened, a random number is generated in the users browser. It is used to pick a Project, then an ad in it based on their respective priorities and frequencies specified.
 
