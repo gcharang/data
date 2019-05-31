@@ -13,7 +13,7 @@ Example:
 - only one project can have `always`, it will be always selected. other projects are ignored
 - more than one project can have `never`, theya are always ignored
 
-The same rules apply for ads and their frequencies
+The same rules apply for ads and their frequencies.
 
 It is recommended to check the validity of the `json` being submitted using websites such as https://codebeautify.org/jsonvalidator
 
