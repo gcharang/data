@@ -19,7 +19,7 @@ It is recommended to check the validity of the `json` being submitted using webs
 
 The data part of an ad is seperated into many parts to make it easy to customize.
 
-Example :
+Example:
 
 ```json
 {
