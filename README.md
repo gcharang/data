@@ -32,3 +32,5 @@ Example:
 
 Is rendered as
 ![data-rendered](./example-render.png)
+
+FIN
