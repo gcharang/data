@@ -15,9 +15,9 @@
       {
         "data": {
           "string1": "Checkout our DEX",
-          "anchorText": "Download at",
+          "anchorText": "Download here",
           "link": "https://komodoplatform.com/komodo-wallets/",
-          "string2": "Thank you!"
+          "string2": ""
         },
         "frequency": "30"
       },
