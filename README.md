@@ -2,7 +2,9 @@
 
 Edit the file: https://github.com/gcharang/data/info/ecosystem.json and submit a PR
 
-Each time the explorer is opened, a random number is generated in the users browser. It is used to pick a Project, then an ad in it based on their respective priorities and frequencies specified.
+Details:
+
+Each time the explorer is opened, a random number is generated in the users' browser. It is used to pick a Project, then an ad in it based on their respective priorities and frequencies specified in the above file.
 
 All the fields are self explanatory. For projects, `priority` is the number of times with respect to other projects the given project is selected. For ads, `frequency` is similar. The values for `frequency` and `priority` must be integers.
 
@@ -17,7 +19,7 @@ The same rules apply for ads and their frequencies.
 
 It is recommended to check the validity of the `json` being submitted using websites such as https://codebeautify.org/jsonvalidator
 
-The data part of an ad is seperated into many parts to make it easy to customize.
+The data of an ad is seperated into `4` parts to make it easy to customize.
 
 Example:
 
