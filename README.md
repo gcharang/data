@@ -12,6 +12,9 @@ All the fields are self explanatory. For projects, `priority` is the number of t
 
 - two projects have priorities 1 and 1, they will be selected with equal probability
 - two projects have priorities 1 and 2, their selection probability is in the ratio `1:2` i.e., if the explorer is opened 100 times, first project is selected 33 times and second project is selected 66 times
+
+**Note:** It's recommended to always make the numbers add upto 100, that way it is easier to reason about. Two projects having priorities 63,37 will be opened 63/100 and 37/100 times respectively.
+
 - only one project can have `always`, it will be always selected. other projects are ignored
 - more than one project can have `never`, theya are always ignored
 
