@@ -5,7 +5,7 @@
     "ads": [
       {
         "data": {
-          "string1": "Use the Verus Version of Agama",
+          "string1": "Use the Verus Version of Agama.",
           "anchorText": "Click here",
           "link": "https://github.com/VerusCoin/Agama/releases/tag/v0.6.0.13-PBaaS-Cross-chain-Technology-Preview",
           "string2": "to download!"
