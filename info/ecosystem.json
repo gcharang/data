@@ -23,8 +23,8 @@
       },
       {
         "data": {
-          "string1": "Follow the latest news about the ecosystem at",
-          "anchorText": "https://komodoplatform.com/latest-news/ .",
+          "string1": "Follow the latest news about the ecosystem",
+          "anchorText": "here.",
           "link": "https://komodoplatform.com/latest-news/",
           "string2": ""
         },
@@ -33,7 +33,7 @@
       {
         "data": {
           "string1": "Subscribe to our News Letter",
-          "anchorText": "at",
+          "anchorText": "here.",
           "link": " https://komodoplatform.com/newsletter",
           "string2": "Thank you!"
         },
