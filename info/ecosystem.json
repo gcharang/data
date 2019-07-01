@@ -38,6 +38,33 @@
           "string2": "Thank you!"
         },
         "frequency": "1"
+      },
+      {
+        "data": {
+          "string1": "Checkout FBF",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "never"
+      },
+      {
+        "data": {
+          "string1": "Checkout Tech Tuesday Update",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "never"
+      },
+      {
+        "data": {
+          "string1": "Placeholder",
+          "anchorText": "Download at",
+          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string2": "Thank you!"
+        },
+        "frequency": "never"
       }
     ]
   },
