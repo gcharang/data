@@ -7,28 +7,28 @@
         "data": {
           "string1": "Use the Verus Version of Agama.",
           "anchorText": "Click here",
-          "link": "https://github.com/VerusCoin/Agama/releases/tag/v0.6.0.13-PBaaS-Cross-chain-Technology-Preview",
+          "link": "https://github.com/VerusCoin/Agama/releases/tag/v0.5.7-3",
           "string2": "to download!"
         },
-        "frequency": "always"
+        "frequency": "1"
       },
       {
         "data": {
-          "string1": "Checkout our DEX",
-          "anchorText": "Download here",
-          "link": "https://komodoplatform.com/komodo-wallets/",
-          "string2": ""
+          "string1": "The rebrand is scheduled to launch on the 15th July 2019",
+          "anchorText": "Click here",
+          "link": "https://twitter.com/KomodoPlatform/status/1144200629969137665",
+          "string2": "for more info."
         },
-        "frequency": "30"
+        "frequency": "4"
       },
       {
         "data": {
-          "string1": "Learn about the upcoming Network Upgrade",
-          "anchorText": "at",
-          "link": "https://komodoplatform.com/komodo-wallets/",
+          "string1": "Follow the latest news about the ecosystem at",
+          "anchorText": "https://komodoplatform.com/latest-news/ .",
+          "link": "https://komodoplatform.com/latest-news/",
           "string2": ""
         },
-        "frequency": "40"
+        "frequency": "1"
       },
       {
         "data": {
@@ -37,7 +37,7 @@
           "link": " https://komodoplatform.com/newsletter",
           "string2": "Thank you!"
         },
-        "frequency": "10"
+        "frequency": "1"
       },
       {
         "data": {
@@ -46,7 +46,7 @@
           "link": "https://komodoplatform.com/komodo-wallets/",
           "string2": "Thank you!"
         },
-        "frequency": "10"
+        "frequency": "never"
       },
       {
         "data": {
@@ -55,7 +55,7 @@
           "link": "https://komodoplatform.com/komodo-wallets/",
           "string2": "Thank you!"
         },
-        "frequency": "10"
+        "frequency": "never"
       },
       {
         "data": {
