@@ -1,6 +1,6 @@
 # README
 
-Edit the file: https://github.com/gcharang/data/info/ecosystem.json and submit a PR
+Edit the file: https://github.com/gcharang/data/blob/master/info/ecosystem.json and submit a PR
 
 ## Details
 
