@@ -6,7 +6,7 @@ Visit the url https://data.lordofthechains.com/info/ecosystem.json after the PR 
 
 ## Details
 
-Each time the explorer is opened, a random number is generated in the users' browser. It is used to pick a Project, then an ad in it, based on their respective priorities and frequencies specified in the above file.
+Each time an explorer is opened, a random number is generated in the users' browser. It is used to pick a Project, then an ad in it, based on their respective priorities and frequencies specified in the above file.
 
 All the fields are self explanatory. For projects, `priority` is the number of times with respect to other projects the given project is selected. For ads, `frequency` is similar. The values for `frequency` and `priority` must be integers.
 
