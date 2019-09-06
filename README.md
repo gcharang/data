@@ -2,7 +2,7 @@
 
 Edit the file: https://github.com/gcharang/data/blob/master/info/ecosystem.json and submit a PR
 
-Visit the url https://data.lordofthechains.com/info/ecosystem.json after the PR is merged to verify that your changes are reflected. This is the data used by the various explorers to display the ads.
+Visit the url https://data.lordofthechains.com/info/ecosystem.json after the PR is merged to verify that your changes are reflected. This is the endpoint used by the various explorers to display the ads.
 
 ## Details
 
