@@ -30,10 +30,10 @@ The data of an ad is seperated into `4` parts to make it easy to customize.
 
 ```json
 {
-  "string1": "Version '0.3.6b' is available for Agama.",
-  "anchorText": "Click here",
-  "link": "https://komodoplatform.com/komodo-wallets/",
-  "string2": "to download!"
+  "string1": "Subscribe to our News Letter",
+  "anchorText": "here.",
+  "link": " https://komodoplatform.com/newsletter",
+  "string2": "Thank you!"
 }
 ```
 
