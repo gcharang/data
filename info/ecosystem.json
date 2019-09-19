@@ -7,14 +7,14 @@
         "data": {
           "string1": "Use the Verus Version of Agama.",
           "anchorText": "Click here",
-          "link": "https://github.com/VerusCoin/Agama/releases/tag/v0.5.7-4",
+          "link": "https://github.com/VerusCoin/Agama/releases/tag/v0.5.8",
           "string2": "to download!"
         },
         "frequency": "1"
       },
       {
         "data": {
-          "string1": "The Komodo Dev Team recently released version 0.1.7 of AtomicDEX. You can download AtomicDEX on Android ",
+          "string1": "The Komodo Dev Team recently released version 0.1.9 of AtomicDEX. You can download the Android version",
           "anchorText": "here",
           "link": "https://play.google.com/store/apps/details?id=com.komodoplatform.atomicdex&hl=en",
           "string2": " ."
