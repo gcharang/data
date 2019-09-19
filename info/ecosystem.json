@@ -34,7 +34,7 @@
         "data": {
           "string1": "Subscribe to our News Letter",
           "anchorText": "here.",
-          "link": " https://komodoplatform.com/newsletter",
+          "link": "https://komodoplatform.com/enthusiasts/#newsletter",
           "string2": "Thank you!"
         },
         "frequency": "1"
