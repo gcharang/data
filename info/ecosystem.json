@@ -17,13 +17,13 @@
           "string1": "For Native mode, use the Komodo Ocean QT wallet.",
           "anchorText": "Click here",
           "link": "https://github.com/DeckerSU/KomodoOcean/releases/",
-          "string2": "for the latest releases!"
+          "string2": "for the latest release!"
         },
         "frequency": "1"
       },
       {
         "data": {
-          "string1": "The Komodo Dev Team recently released version 0.2.0 of AtomicDEX. You can download the Android version",
+          "string1": "The Komodo Dev Team recently released version 0.2.1 of AtomicDEX. You can download the Android version",
           "anchorText": "here",
           "link": "https://play.google.com/store/apps/details?id=com.komodoplatform.atomicdex&hl=en",
           "string2": " ."
