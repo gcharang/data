@@ -41,10 +41,10 @@
       },
       {
         "data": {
-          "string1": "Subscribe to our News Letter",
+          "string1": "For latest news about the Komodo Ecosystem, Subscribe to our News Letter",
           "anchorText": "here.",
           "link": "https://komodoplatform.com/enthusiasts/#newsletter",
-          "string2": "Thank you!"
+          "string2": ""
         },
         "frequency": "1"
       },
