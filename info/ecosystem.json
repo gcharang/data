@@ -5,7 +5,7 @@
     "ads": [
       {
         "data": {
-          "string1": "For Lite mode, use the Verus Version of Agama.",
+          "string1": "For Lite mode, use the Verus Desktop wallet.",
           "anchorText": "Click here",
           "link": "https://veruscoin.io/wallet.html",
           "string2": "to visit the wallet download page!"
@@ -47,33 +47,6 @@
           "string2": ""
         },
         "frequency": "1"
-      },
-      {
-        "data": {
-          "string1": "Checkout FBF",
-          "anchorText": "Download at",
-          "link": "https://komodoplatform.com/komodo-wallets/",
-          "string2": "Thank you!"
-        },
-        "frequency": "never"
-      },
-      {
-        "data": {
-          "string1": "Checkout Tech Tuesday Update",
-          "anchorText": "Download at",
-          "link": "https://komodoplatform.com/komodo-wallets/",
-          "string2": "Thank you!"
-        },
-        "frequency": "never"
-      },
-      {
-        "data": {
-          "string1": "Placeholder",
-          "anchorText": "Download at",
-          "link": "https://komodoplatform.com/komodo-wallets/",
-          "string2": "Thank you!"
-        },
-        "frequency": "never"
       }
     ]
   },
@@ -98,7 +71,7 @@
     "ads": [
       {
         "data": {
-          "string1": "Arr was launched using Komodo's Technology. Check it",
+          "string1": "Pirate Coin (Arr) is a fully Private cryptocurrency launched using Komodo's Technology. Check it out",
           "anchorText": "here",
           "link": "",
           "string2": "Thank you!"
@@ -113,9 +86,9 @@
     "ads": [
       {
         "data": {
-          "string1": "VRSC has launched PBaaS. Check it",
+          "string1": "VRSC has launched Public Blockchains as a Service (PBaaS). Learn more about it",
           "anchorText": "here",
-          "link": "",
+          "link": "https://veruscoin.io/",
           "string2": "Thank you!"
         },
         "frequency": "always"
