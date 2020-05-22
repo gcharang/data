@@ -32,6 +32,15 @@
       },
       {
         "data": {
+          "string1": "Have you signed up to the Komodo Platform Community? Check it out ",
+          "anchorText": "here!",
+          "link": "https://community.komodoplatform.com/",
+          "string2": " ."
+        },
+        "frequency": "4"
+      },
+      {
+        "data": {
           "string1": "Follow the latest news about the ecosystem",
           "anchorText": "here.",
           "link": "https://komodoplatform.com/latest-news/",
