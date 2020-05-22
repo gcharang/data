@@ -23,6 +23,15 @@
       },
       {
         "data": {
+          "string1": "Have you signed up to the Komodo Platform Community? Check it out ",
+          "anchorText": "here!",
+          "link": "https://community.komodoplatform.com/",
+          "string2": " ."
+        },
+        "frequency": "4"
+      },
+      {
+        "data": {
           "string1": "The Komodo Dev Team has developed a mobile DEX called the AtomicDEX. Find more information and download links",
           "anchorText": "here",
           "link": "https://atomicdex.io/",
