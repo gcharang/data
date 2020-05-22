@@ -5,7 +5,7 @@
     "ads": [
       {
         "data": {
-          "string1": "For Lite mode, use the Verus Desktop wallet.",
+          "string1": "For a Lite mode wallet, use the Verus Desktop wallet.",
           "anchorText": "Click here",
           "link": "https://veruscoin.io/wallet.html",
           "string2": "to visit the wallet download page!"
@@ -14,7 +14,7 @@
       },
       {
         "data": {
-          "string1": "For Native mode, use the Komodo Ocean QT wallet.",
+          "string1": "For a Native mode wallet, use the Komodo Ocean QT wallet.",
           "anchorText": "Click here",
           "link": "https://github.com/DeckerSU/KomodoOcean/releases/",
           "string2": "for the latest release!"
@@ -32,7 +32,7 @@
       },
       {
         "data": {
-          "string1": "Follow the latest news about the ecosystem",
+          "string1": "Follow the latest news about the Komodo Ecosystem",
           "anchorText": "here.",
           "link": "https://komodoplatform.com/latest-news/",
           "string2": ""
@@ -56,7 +56,7 @@
     "ads": [
       {
         "data": {
-          "string1": "KMDLabs was launched to accelerate development, testing and adoption of Komodo platform. For more info,",
+          "string1": "KMDLabs was launched to accelerate development, testing and adoption of the Komodo platform. For more info,",
           "anchorText": "Click Here",
           "link": "https://kmdlabs.com/",
           "string2": ""
