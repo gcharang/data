@@ -5,9 +5,9 @@
     "ads": [
       {
         "data": {
-          "string1": "For a Lite mode wallet, use the Verus Desktop wallet.",
+          "string1": "For a Lite mode wallet, use the AtomicDEX Desktop wallet.",
           "anchorText": "Click here",
-          "link": "https://veruscoin.io/wallet.html",
+          "link": "https://komodoplatform.com/en/wallet.html",
           "string2": "to visit the wallet download page!"
         },
         "frequency": "1"
@@ -23,9 +23,9 @@
       },
       {
         "data": {
-          "string1": "Have you signed up to the Komodo Platform Community? Check it out ",
+          "string1": "Have you signed up to the Komodo Platform Community Forum? Check it out ",
           "anchorText": "here!",
-          "link": "https://community.komodoplatform.com/",
+          "link": "https://forum.komodoplatform.com/",
           "string2": " ."
         },
         "frequency": "4"
@@ -43,7 +43,7 @@
         "data": {
           "string1": "Follow the latest news about the Komodo Ecosystem",
           "anchorText": "here.",
-          "link": "https://komodoplatform.com/latest-news/",
+          "link": "https://blog.komodoplatform.com/en/",
           "string2": ""
         },
         "frequency": "1"
@@ -52,7 +52,7 @@
         "data": {
           "string1": "For latest news about the Komodo Ecosystem, Subscribe to our News Letter",
           "anchorText": "here.",
-          "link": "https://komodoplatform.com/enthusiasts/#newsletter",
+          "link": "https://mailchi.mp/komodoplatform/komodo-newsletter",
           "string2": ""
         },
         "frequency": "1"
@@ -61,7 +61,7 @@
   },
   {
     "projectName": "LABS",
-    "priority": "1",
+    "priority": "never",
     "ads": [
       {
         "data": {
