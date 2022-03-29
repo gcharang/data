@@ -60,21 +60,6 @@
     ]
   },
   {
-    "projectName": "LABS",
-    "priority": "never",
-    "ads": [
-      {
-        "data": {
-          "string1": "KMDLabs was launched to accelerate development, testing and adoption of the Komodo platform. For more info,",
-          "anchorText": "Click Here",
-          "link": "https://kmdlabs.com/",
-          "string2": ""
-        },
-        "frequency": "always"
-      }
-    ]
-  },
-  {
     "projectName": "ARR",
     "priority": "never",
     "ads": [
@@ -84,6 +69,21 @@
           "anchorText": "here",
           "link": "",
           "string2": "Thank you!"
+        },
+        "frequency": "always"
+      }
+    ]
+  },
+  {
+    "projectName": "TOKEL",
+    "priority": "never",
+    "ads": [
+      {
+        "data": {
+          "string1": "TOKEL makes creating NFTs and tokens easy. No complicated smart contracts. No Gas Fees. Learn more about it",
+          "anchorText": "here",
+          "link": "https://tokel.io/",
+          "string2": ""
         },
         "frequency": "always"
       }
