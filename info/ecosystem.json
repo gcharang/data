@@ -28,11 +28,11 @@
           "link": "https://forum.komodoplatform.com/",
           "string2": " ."
         },
-        "frequency": "4"
+        "frequency": "2"
       },
       {
         "data": {
-          "string1": "The Komodo Dev Team has developed a mobile DEX called the AtomicDEX. Find more information and download links",
+          "string1": "The Komodo Dev Team has developed AtomicDEX, a p2p DEX and multicoin wallet. Find more information and download links",
           "anchorText": "here",
           "link": "https://atomicdex.io/",
           "string2": " ."
@@ -43,7 +43,7 @@
         "data": {
           "string1": "Follow the latest news about the Komodo Ecosystem",
           "anchorText": "here.",
-          "link": "https://blog.komodoplatform.com/en/",
+          "link": "https://komodoplatform.com/en/blog/",
           "string2": ""
         },
         "frequency": "1"
@@ -61,7 +61,7 @@
   },
   {
     "projectName": "ARR",
-    "priority": "never",
+    "priority": "1",
     "ads": [
       {
         "data": {
@@ -76,7 +76,7 @@
   },
   {
     "projectName": "TOKEL",
-    "priority": "never",
+    "priority": "1",
     "ads": [
       {
         "data": {
@@ -91,7 +91,7 @@
   },
   {
     "projectName": "VRSC",
-    "priority": "never",
+    "priority": "1",
     "ads": [
       {
         "data": {
