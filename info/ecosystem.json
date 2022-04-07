@@ -7,7 +7,7 @@
         "data": {
           "string1": "For a Lite mode wallet, use the AtomicDEX Desktop wallet.",
           "anchorText": "Click here",
-          "link": "https://komodoplatform.com/en/wallet.html",
+          "link": "https://komodoplatform.com/en/wallets.html",
           "string2": "to visit the wallet download page!"
         },
         "frequency": "1"
@@ -67,7 +67,7 @@
         "data": {
           "string1": "Pirate Coin (Arr) is a fully Private cryptocurrency launched using Komodo's Technology. Check it out",
           "anchorText": "here",
-          "link": "",
+          "link": "https://pirate.black/",
           "string2": "Thank you!"
         },
         "frequency": "always"
